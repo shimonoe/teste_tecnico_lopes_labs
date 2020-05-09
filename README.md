@@ -57,3 +57,11 @@ Através das métricas colhidas após a validação cruzada, é possível inferi
 A segunda delas é a de que os vinhos na faixa de qualidade 5 e 6 são muito similares, segundo a matriz de confusão do modelo. Levando a crer que existem poucas diferenças entre essas duas categorias.<br>
 Para o problema original de categorização em *labels* entre 3 e 9, o modelo não performa como o desejado. Porém, se reduzirmos o problema em um classificador binário ou em menos classes (baixa qualidade, média e alta) o modelo teria uma performance melhor, pois há fortes indícios pela matriz de confusão de que essa divisão existe.
 
+## Como reproduzir:
+Clone o repositório e execute os comandos na raiz do projeto:
+`$ python3 -m venv venv`<br>
+`$ source venv/bin/activate`<br>
+`$ pip install -r requirements.txt`<br>
+`$ cd notebooks && jupyter notebook 'Modelagem - Wine Quality Dataset.ipynb'`<br>
+
+E pressione **Ctrl+Shift+Alt+Enter** para executar o projeto.
