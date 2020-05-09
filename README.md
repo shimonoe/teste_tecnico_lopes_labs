@@ -1,6 +1,8 @@
 # Teste Data Science - Lopes Labs
 [
 ![Python version](https://img.shields.io/badge/Python-3.6%20|%203.7-informational?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
+[
+![Jupyter notebook](https://img.shields.io/badge/Jupyter-visualizar%20notebook-orange?style=for-the-badge&logo=jupyter)](https://nbviewer.jupyter.org/github/shimonoe/teste_tecnico_lopes_labs/blob/a2b3792fa2d33cc3c28decb5058c91a55813d973/notebooks/Modelagem%20-%20Wine%20Quality%20Dataset.ipynb)
 
 Este repositório contém as respostas para o teste de Data Science do processo seletivo da Lopes Labs.
 
